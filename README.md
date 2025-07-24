@@ -17,7 +17,7 @@ Relacionamento:
 # Modelagem
 
 ## Diagrama DER
-![Diagrama Der em pdf](./Projeto-Biblioteca.pdf)
+[Visualizar DER em PDF](./Projeto-Biblioteca.pdf)
 
 # Tabelas Normalizadas (até 3FN)
 - Tabelas com atributos atômicos, sem redundância
